@@ -1,0 +1,28 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "3.8.20",
+  "startedAt": "2024-09-27T20:04:20.165770Z",
+  "program": "./train_custom_augmentation.py",
+  "codePath": "train_custom_augmentation.py",
+  "email": "chaupnm.22bi13063@usth.edu.vn",
+  "root": "C:\\Users\\Chou\\CODE\\dl_project\\EndoCV2021-EfficientDet-Pytorch-main\\EndoCV2021-EfficientDet-Pytorch-main",
+  "host": "LAPTOP-2VAEVR4R",
+  "username": "Chou",
+  "executable": "C:\\Users\\Chou\\anaconda3\\envs\\efficientdet\\python.exe",
+  "codePathLocal": "train_custom_augmentation.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "486885625856",
+      "used": "271110451200"
+    }
+  },
+  "memory": {
+    "total": "7968247808"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  }
+}
