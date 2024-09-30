@@ -1,7 +1,5 @@
 # original author: signatrix, zylo117
 # adapted from https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch
-# modified by GorkemP
-# contact: polatgorkem@gmail.com
 
 import argparse
 import os
