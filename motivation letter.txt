@@ -1,0 +1,27 @@
+﻿Pham Ngoc Minh Chau
+Information and Communication Technology Department
+University of Science and Technology of Hanoi
+
+
+Letter of Motivation
+Dear Committee Members,
+I am writing to express my interest in the Research Assistant position in the Industry-Academia Program in Bioinformatics (IAPB). Currently, I am in my final year of the Bachelor’s program in Data Science at the University of Science and Technology of Hanoi (USTH). With a solid academic foundation in mathematics, statistics, and computer science, I am eager to apply these skills in computational biology to tackle complex biological challenges.
+
+
+During my studies, I have had the chance to work on several projects applying data science to real-world problems. One of the most notable was a project on polyp detection in colonoscopy images, where I developed a machine learning pipeline using the EfficientDet model to accurately identify and localize polyps. This project gave me valuable hands-on experience in processing large-scale medical datasets, optimizing deep learning models, and working effectively within a team to achieve a common goal. Additionally, through the Introduction to Bioinformatics course, I gained practical experience in using tools like BLAST and ClustalW for sequence alignment and became familiar with biological databases such as NCBI and Ensembl. These experiences further fueled my passion for bioinformatics and computational biology.
+
+
+Besides technical experience, I have a strong background in mathematics, which I believe is essential for contributing to the IAPB program. I have completed advanced coursework in probability, statistics, and optimization,... which are directly applicable to bioinformatics research. In recognition of my mathematical abilities, I was awarded Third Prize in the 2023 Mathematical Olympic Competition, and I have maintained the Scholarship for Academic Excellence throughout my six semesters at USTH. This strong foundation not only helps me approach data science problems analytically but also motivates me to explore the deeper mathematical principles underlying bioinformatics research.
+
+
+What excites me most about the IAPB program is its focus on combining industry and academia to address real-world challenges. I am particularly drawn to the opportunity to work on cutting-edge research in single-cell and spatial biology, areas that demand both a robust mathematical foundation and advanced data science techniques. I believe this program will provide me with a unique environment to further develop my skills and contribute to impactful research.
+
+
+In conclusion, I believe my technical experiment, mathematical background, and enthusiasm for interdisciplinary research make me a strong fit for this position. I am excited about the prospect of contributing to the IAPB program and learning from the esteemed researchers involved.
+
+
+Thank you for considering my application. I look forward to the opportunity to participate in the program.
+
+
+Yours sincerely.
+Pham Ngoc Minh Chau
